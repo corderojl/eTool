@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FBA7D2FD-867E-4755-8B5B-03B935C2994A}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EToolWeb</RootNamespace>
+    <AssemblyName>EToolWeb</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bootstrap\css\bootstrap-datetimepicker.css" />
+    <Content Include="bootstrap\css\bootstrap-datetimepicker.min.css" />
+    <Content Include="bootstrap\css\bootstrap-theme.css" />
+    <Content Include="bootstrap\css\bootstrap-theme.min.css" />
+    <Content Include="bootstrap\css\bootstrap.css" />
+    <Content Include="bootstrap\css\bootstrap.min.css" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="bootstrap\js\bootstrap.js" />
+    <Content Include="bootstrap\js\bootstrap.min.js" />
+    <Content Include="css\img\glyphicons-halflings.png" />
+    <Content Include="css\Style.css" />
+    <Content Include="FrmCargaRapidaList.aspx" />
+    <Content Include="FrmCargaRapidaActualizar.aspx" />
+    <Content Include="FrmCargaRapidaRegistrar.aspx" />
+    <Content Include="images\pdf.png" />
+    <Content Include="images\photos.png" />
+    <Content Include="jquery\jquery-1.8.3.min.js" />
+    <Content Include="js\bootstrap-datetimepicker.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.ar.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.az.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.bg.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.bn.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.ca.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.cs.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.da.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.de.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.ee.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.el.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.es.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.fi.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.fr.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.he.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.hr.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.hu.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.hy.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.id.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.is.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.it.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.ja.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.ka.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.ko.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.lt.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.lv.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.ms.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.nb.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.nl.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.no.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.pl.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.pt-BR.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.pt.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.ro.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.rs-latin.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.rs.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.ru.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.sk.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.sl.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.sv.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.sw.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.th.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.tr.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.ua.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.uk.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.zh-CN.js" />
+    <Content Include="js\locales\bootstrap-datetimepicker.zh-TW.js" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmCargaRapidaList.aspx.cs">
+      <DependentUpon>FrmCargaRapidaList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmCargaRapidaList.aspx.designer.cs">
+      <DependentUpon>FrmCargaRapidaList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCargaRapidaActualizar.aspx.cs">
+      <DependentUpon>FrmCargaRapidaActualizar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmCargaRapidaActualizar.aspx.designer.cs">
+      <DependentUpon>FrmCargaRapidaActualizar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCargaRapidaRegistrar.aspx.cs">
+      <DependentUpon>FrmCargaRapidaRegistrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmCargaRapidaRegistrar.aspx.designer.cs">
+      <DependentUpon>FrmCargaRapidaRegistrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="Properties\PublishProfiles\ETool.pubxml" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EToolBE\EToolBE.csproj">
+      <Project>{01a3a690-d827-4653-abb8-54719cee7604}</Project>
+      <Name>EToolBE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EToolBL\EToolBL.csproj">
+      <Project>{85ddce95-15e9-4325-8128-04b9ba966948}</Project>
+      <Name>EToolBL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Examenes\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>5901</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:5901/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

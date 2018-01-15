@@ -1,0 +1,7 @@
+D:\Mondelez\ETool\EToolADO\bin\Release\EToolADO.dll
+D:\Mondelez\ETool\EToolADO\bin\Release\EToolADO.pdb
+D:\Mondelez\ETool\EToolADO\bin\Release\EToolBE.dll
+D:\Mondelez\ETool\EToolADO\bin\Release\EToolBE.pdb
+D:\Mondelez\ETool\EToolADO\obj\Release\EToolADO.csprojResolveAssemblyReference.cache
+D:\Mondelez\ETool\EToolADO\obj\Release\EToolADO.dll
+D:\Mondelez\ETool\EToolADO\obj\Release\EToolADO.pdb

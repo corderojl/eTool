@@ -1,0 +1,13 @@
+﻿body {
+}
+
+
+form {
+    background-color: #fafafa;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    width: 95%;
+    border-radius: 10px;
+    float: none;
+    margin: 0 auto;
+}

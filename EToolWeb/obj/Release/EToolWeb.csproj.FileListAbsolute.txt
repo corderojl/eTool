@@ -1,0 +1,12 @@
+D:\Mondelez\ETool\EToolWeb\bin\EToolWeb.dll.config
+D:\Mondelez\ETool\EToolWeb\bin\EToolWeb.dll
+D:\Mondelez\ETool\EToolWeb\bin\EToolWeb.pdb
+D:\Mondelez\ETool\EToolWeb\bin\EToolBE.dll
+D:\Mondelez\ETool\EToolWeb\bin\EToolBL.dll
+D:\Mondelez\ETool\EToolWeb\bin\EToolADO.dll
+D:\Mondelez\ETool\EToolWeb\bin\EToolBE.pdb
+D:\Mondelez\ETool\EToolWeb\bin\EToolBL.pdb
+D:\Mondelez\ETool\EToolWeb\bin\EToolADO.pdb
+D:\Mondelez\ETool\EToolWeb\obj\Release\EToolWeb.csprojResolveAssemblyReference.cache
+D:\Mondelez\ETool\EToolWeb\obj\Release\EToolWeb.dll
+D:\Mondelez\ETool\EToolWeb\obj\Release\EToolWeb.pdb

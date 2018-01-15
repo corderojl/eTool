@@ -1,0 +1,5 @@
+D:\Mondelez\ETool\EToolBE\bin\Debug\EToolBE.dll
+D:\Mondelez\ETool\EToolBE\bin\Debug\EToolBE.pdb
+D:\Mondelez\ETool\EToolBE\obj\Debug\EToolBE.csprojResolveAssemblyReference.cache
+D:\Mondelez\ETool\EToolBE\obj\Debug\EToolBE.dll
+D:\Mondelez\ETool\EToolBE\obj\Debug\EToolBE.pdb
