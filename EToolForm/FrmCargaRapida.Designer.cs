@@ -48,6 +48,7 @@
             this.dgvExamen.Name = "dgvExamen";
             this.dgvExamen.Size = new System.Drawing.Size(842, 371);
             this.dgvExamen.TabIndex = 0;
+            this.dgvExamen.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvExamen_CellContentClick);
             // 
             // btn
             // 
@@ -67,6 +68,7 @@
             this.label1.Size = new System.Drawing.Size(49, 13);
             this.label1.TabIndex = 2;
             this.label1.Text = "Aechivo:";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // textBox1
             // 
@@ -74,6 +76,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(624, 20);
             this.textBox1.TabIndex = 3;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // btnSubir
             // 
