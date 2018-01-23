@@ -89,6 +89,7 @@ namespace EToolWeb
             _CapacitacionBE.IdEtto = ddlEntrenamiento.SelectedValue;
             _CapacitacionBE.Legajo = int.Parse(ddlEmpleado.SelectedValue);
             _CapacitacionBE.Fecha = Convert.ToDateTime(txtFecha.Text);
+            _CapacitacionBE.Nota = int.Parse(txtNota.Text);
             _CapacitacionBE.Certificado = chbCertificado.Checked;
             _CapacitacionBE.Examen = msj;
             if(_CapacitacionBL.InsertarCapacitacion(_CapacitacionBE)>0)

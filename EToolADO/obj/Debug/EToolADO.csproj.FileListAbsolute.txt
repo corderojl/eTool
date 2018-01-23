@@ -5,3 +5,10 @@ D:\Mondelez\ETool\EToolADO\bin\Debug\EToolBE.dll
 D:\Mondelez\ETool\EToolADO\bin\Debug\EToolBE.pdb
 D:\Mondelez\ETool\EToolADO\obj\Debug\EToolADO.dll
 D:\Mondelez\ETool\EToolADO\obj\Debug\EToolADO.pdb
+D:\Mondelez\Repositorio\EToolADO\bin\Debug\EToolADO.dll
+D:\Mondelez\Repositorio\EToolADO\bin\Debug\EToolADO.pdb
+D:\Mondelez\Repositorio\EToolADO\bin\Debug\EToolBE.dll
+D:\Mondelez\Repositorio\EToolADO\bin\Debug\EToolBE.pdb
+D:\Mondelez\Repositorio\EToolADO\obj\Debug\EToolADO.csprojResolveAssemblyReference.cache
+D:\Mondelez\Repositorio\EToolADO\obj\Debug\EToolADO.dll
+D:\Mondelez\Repositorio\EToolADO\obj\Debug\EToolADO.pdb
