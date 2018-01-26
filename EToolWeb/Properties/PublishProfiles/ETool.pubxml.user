@@ -10,58 +10,58 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/EToolADO.dll">
-      <publishTime>01/22/2018 22:32:14</publishTime>
+      <publishTime>01/15/2018 03:16:43</publishTime>
     </File>
     <File Include="bin/EToolBE.dll">
-      <publishTime>01/22/2018 22:32:14</publishTime>
+      <publishTime>01/15/2018 03:16:41</publishTime>
     </File>
     <File Include="bin/EToolBL.dll">
-      <publishTime>01/22/2018 22:32:14</publishTime>
+      <publishTime>01/15/2018 03:16:43</publishTime>
     </File>
     <File Include="bin/EToolWeb.dll">
-      <publishTime>01/22/2018 22:32:15</publishTime>
+      <publishTime>01/15/2018 03:58:55</publishTime>
     </File>
     <File Include="bootstrap/css/bootstrap-datetimepicker.css">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:43:16</publishTime>
     </File>
     <File Include="bootstrap/css/bootstrap-datetimepicker.min.css">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:43:16</publishTime>
     </File>
     <File Include="bootstrap/css/bootstrap-theme.css">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:34:14</publishTime>
     </File>
     <File Include="bootstrap/css/bootstrap-theme.min.css">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:34:14</publishTime>
     </File>
     <File Include="bootstrap/css/bootstrap.css">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:34:14</publishTime>
     </File>
     <File Include="bootstrap/css/bootstrap.min.css">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/15/2018 00:17:07</publishTime>
     </File>
     <File Include="bootstrap/fonts/glyphicons-halflings-regular.eot">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:34:14</publishTime>
     </File>
     <File Include="bootstrap/fonts/glyphicons-halflings-regular.svg">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:34:14</publishTime>
     </File>
     <File Include="bootstrap/fonts/glyphicons-halflings-regular.ttf">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:34:14</publishTime>
     </File>
     <File Include="bootstrap/fonts/glyphicons-halflings-regular.woff">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:34:14</publishTime>
     </File>
     <File Include="bootstrap/js/bootstrap.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:34:14</publishTime>
     </File>
     <File Include="bootstrap/js/bootstrap.min.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:34:14</publishTime>
     </File>
     <File Include="css/img/glyphicons-halflings.png">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 22:34:34</publishTime>
     </File>
     <File Include="css/Style.css">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/15/2018 02:54:56</publishTime>
     </File>
     <File Include="Examenes/flo.jpg">
       <publishTime>01/14/2018 01:07:48</publishTime>
@@ -70,169 +70,169 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/14/2018 23:41:16</publishTime>
     </File>
     <File Include="FrmCargaRapidaActualizar.aspx">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/15/2018 02:50:59</publishTime>
     </File>
     <File Include="FrmCargaRapidaList.aspx">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/14/2018 22:50:21</publishTime>
     </File>
     <File Include="FrmCargaRapidaRegistrar.aspx">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/15/2018 03:17:39</publishTime>
     </File>
     <File Include="images/pdf.png">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/15/2018 01:39:14</publishTime>
     </File>
     <File Include="images/photos.png">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/15/2018 01:40:11</publishTime>
     </File>
     <File Include="jquery/jquery-1.8.3.min.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:34:14</publishTime>
     </File>
     <File Include="js/bootstrap-datetimepicker.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.ar.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.az.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.bg.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.bn.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.ca.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.cs.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.da.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.de.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.ee.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.el.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.es.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.fi.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.fr.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.he.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.hr.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.hu.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.hy.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.id.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.is.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.it.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.ja.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.ka.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.ko.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.lt.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.lv.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.ms.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.nb.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.nl.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.no.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.pl.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.pt-BR.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.pt.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.ro.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.rs-latin.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.rs.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.ru.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.sk.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.sl.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.sv.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.sw.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.th.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.tr.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.ua.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.uk.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.zh-CN.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="js/locales/bootstrap-datetimepicker.zh-TW.js">
-      <publishTime>01/15/2018 20:48:21</publishTime>
+      <publishTime>01/13/2018 23:38:26</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>01/22/2018 22:32:18</publishTime>
+      <publishTime>01/15/2018 03:58:56</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>01/22/2018 22:32:16</publishTime>
+      <publishTime>01/15/2018 03:16:45</publishTime>
     </File>
     <File Include="WebForm1.aspx">
       <publishTime>01/13/2018 16:06:21</publishTime>
